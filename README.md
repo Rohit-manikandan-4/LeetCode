@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
