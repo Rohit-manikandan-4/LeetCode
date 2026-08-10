@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -51,5 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
