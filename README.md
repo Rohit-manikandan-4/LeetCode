@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
+| [0065-valid-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0065-valid-number) |
 ## Two Pointers
 |  |
 | ------- |
