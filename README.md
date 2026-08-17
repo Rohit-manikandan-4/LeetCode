@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 ## Brainteaser
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 ## Impartial Game
 |  |
 | ------- |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
