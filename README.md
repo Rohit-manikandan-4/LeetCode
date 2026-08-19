@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
+| [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1929-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
