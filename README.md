@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0051-n-queens) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0217-contains-duplicate) |
 | [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0051-n-queens) |
 | [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
