@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0012-integer-to-roman) |
+| [0509-fibonacci-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 ## Brainteaser
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
