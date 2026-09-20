@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 ## Brainteaser
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0217-contains-duplicate) |
 | [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -155,4 +159,48 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0051-n-queens) |
+## Bitmask
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Maximum Flow
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Maximum Matching
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Edmonds–Karp Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## MPM Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Push-Relabel Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Minimum Cut
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Flow Network
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+## Dinic's Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 <!---LeetCode Topics End-->
