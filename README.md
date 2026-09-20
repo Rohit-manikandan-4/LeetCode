@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0039-combination-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0217-contains-duplicate) |
+| [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0039-combination-sum) |
+| [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
