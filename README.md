@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
+| [3524-find-x-value-of-array-i](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1025-divisor-game) |
 | [1349-maximum-students-taking-exam](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
+| [3524-find-x-value-of-array-i](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3524-find-x-value-of-array-i](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rohit-manikandan-4/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
